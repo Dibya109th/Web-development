@@ -1,0 +1,18 @@
+/* span and class  */
+a,h1{
+    color:rgb(29, 65, 195);
+
+}
+a{
+    font-size:30px;
+    text-align: center;
+    text-decoration:underline;
+    text-decoration:noone;
+    font-weight: bold;
+}
+h1{
+    font-size: larger;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    color: red;
+}
